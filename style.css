@@ -1,0 +1,61 @@
+
+.barra{
+    background-image: url(./img/ab0c32c59fcf486c64c0b25752e609e7.jpg);
+    background-size: cover;
+    color: white;
+}
+.navbar-nav .nav-item a{
+    color: white;
+}
+
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.navbar-brand_text{
+    color: white;
+}
+.col-6 img{
+    height: 25rem;
+
+}
+ .fondo{
+    background-image: url(./img/ab0c32c59fcf486c64c0b25752e609e7.jpg);
+}
+.col-6 img{
+    border-radius: 250px;
+}
+.col-6 h1{
+    color: white;
+}
+.col-6 h5{
+    color: white;
+}
+.col-6 h3{
+    color: white;
+}
+.mid{
+    background-image: url(./img/ab0c32c59fcf486c64c0b25752e609e7.jpg);
+}
+.mid hr{
+    color: yellow;
+}
+.mid h1{
+    color: white;
+}
+.lore{
+    color: white;
+}
+.po img{
+    height: 300px;
+
+}
+.cont{
+    background-image: url(./img/ab0c32c59fcf486c64c0b25752e609e7.jpg);
+}
+.lor2{
+    color: white;
+}
+.lengua h6{
+    color: white;
+}
